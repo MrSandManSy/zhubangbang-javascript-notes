@@ -154,7 +154,3 @@
   - [高级定时器](./JS高级技巧/高级定时器.md)
 
 - 编写可维护的javascript代码，性能优化与部署
-
-
-
-![](http://i.imgur.com/sUHkgQF.png)
